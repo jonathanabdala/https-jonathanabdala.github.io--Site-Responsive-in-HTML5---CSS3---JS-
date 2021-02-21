@@ -1,9 +1,13 @@
 # Site Responsivo em HTML5 | CSS3 | JAVASCRITP
 
-<<<<<<< HEAD
- Site responsivo desenvolvido nas Tecnologias HTML5 | CSS3 | na linguagem JavaScript.
+
+ Tecnologias utilizadas neste projeto
+ 
+HTML5|
+CSS3| 
+JavaScript|
 
  
-Website was published at 
+Site publicado em
 https://jonathanabdala.github.io/Site-Responsivo-em-HTML5---CSS3---JS/
 
