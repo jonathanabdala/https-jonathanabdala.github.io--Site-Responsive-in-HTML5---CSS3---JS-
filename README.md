@@ -3,11 +3,11 @@
 
  Tecnologias utilizadas neste projeto
  
-HTML5|
-CSS3| 
-JavaScript|
+HTML5 |
+CSS3 | 
+JavaScript
 
  
-Site publicado em
+Site publicado em|
 https://jonathanabdala.github.io/Site-Responsivo-em-HTML5---CSS3---JS/
 
