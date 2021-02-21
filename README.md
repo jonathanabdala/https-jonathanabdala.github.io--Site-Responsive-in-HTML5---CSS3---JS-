@@ -1,10 +1,14 @@
 # Site Responsivo em HTML5 | CSS3 | JAVASCRITP
 
 
- Tecnologias utilizadas neste projeto
- 
-HTML5 |
-CSS3 | 
+Tecnologias utilizadas no projeto
+
+FRONTEND
+
+HTML5
+
+CSS3
+
 JavaScript
 
  
