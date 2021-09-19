@@ -13,5 +13,4 @@ JavaScript
 
  
 Site publicado em|
-https://jonathanabdala.github.io/Site-Responsivo-em-HTML5---CSS3---JS/
-
+https://jonathanabdala.github.io/https-jonathanabdala.github.io--Site-Responsive-in-HTML5---CSS3---JS-/
